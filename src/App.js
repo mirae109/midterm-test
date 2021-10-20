@@ -13,13 +13,13 @@ ap = () => {
 
 or = () => {
   this.setStat( orre => ({
-    result: orre.or
+    result: "오렌지"
   }));
 };
 
 ba = () => {
   this.setStat( bare => ({
-    result: bare.ba
+    result: "바나나"
   }));
 };
 
